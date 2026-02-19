@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Hammadullah</h1>
 <h3 align="center">AI Research Scientist | Computer Vision & Deep Learning</h3>
 
