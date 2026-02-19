@@ -24,12 +24,35 @@ I am passionate about building intelligent systems in:
 ---
 
 ## 🧪 Research Interests
+- Explainable AI (XAI) for Psychological Applications  
+- Computer Vision for Emotion & Behavior Recognition  
+- Deep Learning in Mental Health Support Systems  
+- Facial Expression & Social Interaction Analysis  
+- Trustworthy and Human-Centered AI
 
-- Vision Transformers (ViTs)
-- Medical Image Classification
-- Explainable AI (XAI)
-- Deep Learning for Healthcare
+## 🧠 Research Focus: XAI in Psychological AI
 
+I am deeply interested in applying **Explainable Artificial Intelligence (XAI)**  
+to psychological and human-centered problems, such as:
+
+- Emotion & Mood Detection  
+- Personality-Aware AI Systems  
+- Mental Health & Behavioral Prediction  
+- Trustworthy AI for Social Applications  
+
+My goal is not only to build accurate models, but also to understand:
+
+✅ *Why the model makes a decision*  
+✅ *Which facial or behavioral cues influence predictions*  
+✅ *How AI can support psychological research ethically*  
+
+---
+
+### 🔍 Current Research Direction
+
+- Explainable Deep Learning for Facial Expression Analysis  
+- XAI tools like **Grad-CAM, SHAP, LIME**  
+- Human Behavior Understanding through Vision + NLP
 ---
 
 ## 🛠 Tech Stack
@@ -59,3 +82,5 @@ I am passionate about building intelligent systems in:
 ---
 
 ⭐ *"Research-driven AI for real-world impact."*
+⭐ *"My mission is to build AI systems that are not only intelligent, but also explainable, ethical, and psychologically meaningful."*
+
