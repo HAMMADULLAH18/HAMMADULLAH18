@@ -1,4 +1,11 @@
 <div align="center">
+  <img src="agentic-ai-banner.png"
+       alt="Agentic AI and Intelligent Systems"
+       width="100%">
+</div>
+<br>
+
+<div align="center">
 
 # Hi 👋, I'm Hammadullah
 
